@@ -1,0 +1,13 @@
+Day-1(Git & Github)
+Learn all the basics command for Github.
+git init--> Initialized empty repo. 
+git add-->add all the changes in staging area.
+git commit--> commit all the changes on remote branch with specific msg.
+git branch-->creats new branch.
+git checkout-->switch the branch.
+git push-->push all the local changes on remote area.
+git pull-->pull out all the changes made by others in our code.
+git merge-->merge the branch to the main branch.
+git reset-->reset the head of branch
+git rm--->remove the commits 
+
